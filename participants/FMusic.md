@@ -1,7 +1,7 @@
 ## (0) Project Name and Team Slack Handles
 
 - Our Project Name: FMusic
-- Team Slack Handles: [FUNBLOCKS](https://funbloks.slack.com/join/shared_invite/zt-hy0c64sg-pGNuL92B~azTpyZz8M6jgg#/)
+- Team Slack Handle: [FMusic - Start](https://filecoinproject.slack.com/team/U01AVP376DU)
 
 ## (1) Brief Project Description
 FMusic is a global music source shared system. 
